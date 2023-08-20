@@ -12,6 +12,7 @@ seo:
 layout: layouts/blog-single.liquid
 tags:
   - blog
+test: aer
 author: chris
 thumbImg:
   image: /uploads/people.svg
@@ -19,7 +20,6 @@ thumbImg:
 featuredImg:
   image:
   image_alt:
-prueba: test
 ---
 # este es un editor
 
