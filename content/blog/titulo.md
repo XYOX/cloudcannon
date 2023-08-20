@@ -19,6 +19,7 @@ thumbImg:
 featuredImg:
   image:
   image_alt:
+prueba:
 ---
 # este es un editor
 
