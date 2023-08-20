@@ -11,6 +11,7 @@ seo:
 layout: layouts/blog-single.liquid
 tags:
   - blog
+test:
 author:
 thumbImg:
   image:
